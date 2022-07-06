@@ -49,7 +49,7 @@ const CHAIN = 'rinkeby'; // only rinkeby, polygon, or ethereum
 
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
 const CONTRACT_NAME = 'THEAVOCADOGANG';
-const CONTRACT_SYMBOL = 'CP';
+const CONTRACT_SYMBOL = 'AVG';
 const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0x21d709653d2177F1f3de2399A2BCC4dee8348d94';
 const TREASURY_ADDRESS = '0x21d709653d2177F1f3de2399A2BCC4dee8348d94';
