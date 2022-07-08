@@ -2,7 +2,7 @@ const contractAddress = "0x7AD8047df4cbf356bBEeD9715BccC37d0681F56B"; // Replace
 const chain = 'polygon'; // rinkeby, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the Avocado Gang NFT Project!!";
-const welcome_h2 = "";
+const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'The Avocado gang NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
