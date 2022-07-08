@@ -1,4 +1,4 @@
-const abi = [[
+const abi = [
   {
     "inputs": [
       {
@@ -1482,5 +1482,4 @@ const abi = [[
     "type": "function",
     "signature": "0x476343ee"
   }
-]]
-
+]
